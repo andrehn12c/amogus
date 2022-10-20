@@ -1,0 +1,30 @@
+.superior p:first-child{
+    font-weight: 700;
+    line-height: 1.25rem;
+    margin-bottom: 1rem;
+    color:var(--bright-yellow)
+}
+
+.superior p:second-child{
+    line-height: 1.625rem;
+    color:var(--grayish-blue);
+    font-size: 0.875;
+}
+
+.superior{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    background-color: white;
+}
+
+.esquerda{
+    background-color: var(--cyan);
+    padding: 1.5rem;
+}
+
+.direita{
+    background-color: var(--light-cyan);
+    padding: 1.5rem;
+}

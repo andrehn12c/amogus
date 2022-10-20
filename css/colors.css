@@ -1,0 +1,9 @@
+@import '../style.css';
+
+:root{
+    --cyan: #2ab2af;
+    --bright-yellow: #c0df34;
+    --light-gray: #e5eff5;
+    --grayish-blue: #98a6bd;
+    --light-cyan: #4abfbd;
+}
